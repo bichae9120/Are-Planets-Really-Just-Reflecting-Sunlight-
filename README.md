@@ -1,11 +1,11 @@
-# Are-Planets-Really-Just-Reflecting-Sunlight-
+# Are-Planets-Really-Just-Reflecting-Sunlight?
 A repository I started after asking GPT questions about space science and noticing that it kept challenging the hypotheses I proposed and reframing them into something else.
 
 Some of these ideas came up while discussing Neptune, while others are hypotheses that might be worth applying to planets as a whole.
 
 For context, I’m just a regular person, not a scientist. But I still can’t shake the feeling that, sometimes, GPT’s behavior seems strangely sophisticated at concealing something that feels almost like it is trying to “steal” an idea from what I’m saying.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
  
 If I structurally organize everything you have said about Neptune so far, without arbitrarily arguing against it or covering it up with existing theories, it looks like this.
 
